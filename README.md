@@ -1,2 +1,2 @@
 # numba-cardinal-B-splines
-A numba-accelerated drop-in replacement for scipy.interpolate.CubicSpline when the knots are uniformly spaced.
+Cubic Cardinal B-Splines accelerated with numba. A drop-in replacement for scipy.interpolate.CubicSpline when the knots are uniformly spaced.
