@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+#build with: python setup.py sdist bdist_wheel
+
 with open("README.md", "r") as f:
     long_description = f.read()
 
