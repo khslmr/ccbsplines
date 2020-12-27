@@ -1,2 +1,2 @@
-from numba-cardinal-B-splines.cardBspline import CubicBSpline
+from cardBspline.nb3spl import CubicBSpline
 
